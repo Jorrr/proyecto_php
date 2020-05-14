@@ -3,10 +3,13 @@
 <head>
 <meta name="viewport" content="width=device-width, ">
 <meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
 
+<form action="">
+	<a href="index.php">Inicio</a>
 <a href="Ejercicio1.php">ejercicio 1</a>
 <a href="Ejercicio2.php">ejercicio 2</a>
-
+</form>
 <?php
 if(!isset($_POST["Enviado"])){
 echo"<p><form action='' method='post'><p>Ingrese las horas trabajadas</p>";

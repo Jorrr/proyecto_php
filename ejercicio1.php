@@ -3,14 +3,16 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
-
+<link rel="stylesheet" href="style.css">
 
 </head>
 <body>
-
+	
+<form action="">
+	<a href="index.php">inicio</a>
 <a href="Ejercicio1.php">ejercicio 1</a>
 <a href="Ejercicio2.php">ejercicio 2</a>
-
+</form>
 
 <?PHP
  if(isset($_REQUEST["Envio2"])){
