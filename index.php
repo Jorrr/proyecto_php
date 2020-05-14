@@ -8,9 +8,10 @@
 </head>
 <body>
     <form action="">
+        <center> <h1>
 <a href="Ejercicio1.php">ejercicio 1</a>
 <a href="Ejercicio2.php">ejercicio 2</a>
-</form>
-
+</form></h1>
+</center>
 </body>
 </html>
