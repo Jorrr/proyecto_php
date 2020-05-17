@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="style.css">
-
+<link rel="stylesheet" href="style1.css">
 </head>
 <body>
 	

@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, ">
 <meta charset="utf-8">
 <link rel="stylesheet" href="style.css">
-
+<link rel="stylesheet" href="style1.css">
 <form action="">
 	<a href="index.php">Inicio</a>
 <a href="Ejercicio1.php">ejercicio 1</a>
